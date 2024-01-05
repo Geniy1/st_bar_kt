@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Twitter clone</string>
+    <string name="go_second_page">Go second page</string>
+</resources>
